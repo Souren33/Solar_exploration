@@ -149,3 +149,8 @@ print(f'R² Score: {r2}')
 mape = np.mean(np.abs((y_true - y_pred) / y_true)) * 100
 print(f'Mean Absolute Percentage Error: {mape:.2f}%')
 # %%
+
+
+
+
+#Would it be intresting to see if there is a cluster 
